@@ -18,3 +18,13 @@ if __name__ == "__main__":
     greet()
     print("Add 5 + 3 =", add(5, 3))
     print("Subtract 5 - 3 =", subtract(5, 3))
+
+x = 5
+b = 10
+
+if x > b:
+    print("x is greater than b")
+elif b > x:
+    print("b is greater than x")
+else:
+    print("both are not greater than each other")
