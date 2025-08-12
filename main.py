@@ -28,3 +28,9 @@ elif b > x:
     print("b is greater than x")
 else:
     print("both are not greater than each other")
+
+fruits = ["apple", "orage", "watermelon", "banana"]
+
+for fruit in fruits:
+    print(fruit)
+
